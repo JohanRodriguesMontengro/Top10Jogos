@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin:  0;
+}
+body {
+  img {
+    border: 2px solid black;
+    border-radius: 15px;
+  }
+  background-color: rgb(139, 205, 250);
+
+  p {
+    font-size: 22px;
+    font-family: 'Roboto Condensed';
+  }
+  strong {
+    font-size: 20px;
+    font-family: 'Roboto';
+  }
+  h5 {
+    color: rgb(38, 48, 44);
+  }
+}
